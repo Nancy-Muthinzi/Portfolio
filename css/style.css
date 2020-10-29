@@ -1,0 +1,36 @@
+body{
+  font-family: 'Syne Mono', monospace;
+}
+
+.header {
+  background-image: url('../imgs/tech.jpeg');
+  background-repeat: no-repeat;
+  /* background-attachment: fixed;  */
+  background-size: 100% 100%;
+  margin-top: 100px;
+  padding: 250px;
+  color: white;
+  text-align: center;
+}
+
+#about{
+  text-align: center;
+  /* background-color: #17A2B8; */
+  font-size: 20px;
+}
+
+#skills{
+  background-color: lightgray;
+  text-align: center;
+
+}
+
+#projects{
+  text-align: center;
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+#contact{
+  text-align: center;
+}
